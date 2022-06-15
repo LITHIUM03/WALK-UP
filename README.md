@@ -3,7 +3,7 @@
  
  This is all the code needed to remake the alarm clock. Many more features can be added- feel free to implement them yourself or offer them.
  
- For further reading please refer to [this](ynet.co.il) blogpost.
+ For further reading please refer to [this](http://whatimade.today/today-i-made-walk-up-the-alarm-clock-that-will-walk-you-off-the-bed-2/) blogpost.
  
 ### Notes:
 
