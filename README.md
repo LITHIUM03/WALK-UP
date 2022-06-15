@@ -11,4 +11,4 @@
 2. To run the daemon constantly, please create a cron job for it. it will make the daemon start when the server boots.
 3. Some DEBUG prints are commented-out for your convenience. Feel free to uncomment them to better understand the code. 
 
-For sound samples , please refer to [XTronical's guide](https://www.xtronical.com/basics/audio/dacs-for-sound/playing-wav-files/). You can use the built in sample that comes with the library, or sample your own favorite song. After a few uses of the WALK_UP, it is guaranteed to be your most hated song.
+For sound samples , please refer to [XTronical's guide](https://www.xtronical.com/basics/audio/dacs-for-sound/playing-wav-files/). You can use the built in sample that comes with the library, or sample your own favorite song. Beware-after a few uses of the WALK-UP, it is guaranteed to be your most hated song.
