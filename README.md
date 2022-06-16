@@ -1,5 +1,7 @@
 # WALK-UP
  ESP32 based intelligent alarm clock. Communicates with Garmin servers to collect step count data thus ensuring the user got off the bed. Python/C++/Linux. Different parts communicate over MQTT.
+![20220616_004233-min](https://user-images.githubusercontent.com/53534129/174028380-de6bb0cd-1685-4dac-85c3-21e8f17bcf8c.jpg)
+
  
  This is all the code needed to remake the alarm clock. Many more features can be added- feel free to implement them yourself or offer them.
  
